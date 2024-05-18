@@ -1,2 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>🤠潇洒⛤空间🤠</title><link>https://xs.xsvip999.eu.org/xsblog/</link><description>♻️潇洒个人博客♻️</description><copyright>🤠潇洒⛤空间🤠</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://g.3344550.xyz/https://raw.githubusercontent.com/yxcqr/xsblog/main/pic/%E5%9B%BD%E6%97%97%E7%9C%BC%E9%95%9C%E8%81%8C%E4%B8%9A%E7%94%B7%E8%A3%8550x50.png</url><title>avatar</title><link>https://xs.xsvip999.eu.org/xsblog/</link></image><lastBuildDate>Fri, 17 May 2024 16:09:12 +0000</lastBuildDate><managingEditor>🤠潇洒⛤空间🤠</managingEditor><ttl>60</ttl><webMaster>🤠潇洒⛤空间🤠</webMaster><item><title>我的电视-MyTV</title><link>https://xs.xsvip999.eu.org/xsblog//post/wo-de-dian-shi--MyTV.html</link><description>一款免费的无广无购物的电视直播，主要看央视和卫视，极其流畅。</description><guid isPermaLink="true">https://xs.xsvip999.eu.org/xsblog//post/wo-de-dian-shi--MyTV.html</guid><pubDate>Fri, 17 May 2024 15:03:07 +0000</pubDate></item><item><title>开篇</title><link>https://xs.xsvip999.eu.org/xsblog//post/kai-pian.html</link><description>就是第一次开篇文章。</description><guid isPermaLink="true">https://xs.xsvip999.eu.org/xsblog//post/kai-pian.html</guid><pubDate>Fri, 17 May 2024 14:30:54 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>🤠潇洒⛤空间🤠</title><link>https://xs.xsvip999.eu.org/xsblog/</link><description>♻️潇洒个人博客♻️</description><copyright>🤠潇洒⛤空间🤠</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://g.3344550.xyz/https://raw.githubusercontent.com/yxcqr/xsblog/main/pic/%E5%9B%BD%E6%97%97%E7%9C%BC%E9%95%9C%E8%81%8C%E4%B8%9A%E7%94%B7%E8%A3%8550x50.png</url><title>avatar</title><link>https://xs.xsvip999.eu.org/xsblog/</link></image><lastBuildDate>Sat, 18 May 2024 16:08:09 +0000</lastBuildDate><managingEditor>🤠潇洒⛤空间🤠</managingEditor><ttl>60</ttl><webMaster>🤠潇洒⛤空间🤠</webMaster><item><title>飞视浏览器</title><link>https://xs.xsvip999.eu.org/xsblog//post/fei-shi-liu-lan-qi.html</link><description>![1](https://t.3344550.xyz/file/12b7590ae4945a4050187.jpg)&#13;
+这是差不多10年前的产品，他们广告语也是“电视上第一个浏览器”，当年贾老板没出国时的乐视团队打造的。</description><guid isPermaLink="true">https://xs.xsvip999.eu.org/xsblog//post/fei-shi-liu-lan-qi.html</guid><pubDate>Sat, 18 May 2024 01:44:43 +0000</pubDate></item><item><title>PotPlayer去广告绿色版-支持杜比视界</title><link>https://xs.xsvip999.eu.org/xsblog//post/PotPlayer-qu-guang-gao-lv-se-ban---zhi-chi-du-bi-shi-jie.html</link><description>![1](https://t.3344550.xyz/file/eced868f53d626087375b.jpg)&#13;
+potplayer就不多做介绍了，可以说是最牛逼的播放器了，解码强大，博主一直在用！今天分享的是PotPlayer v1.7.21589 正式版！&#13;
+![2](https://t.3344550.xyz/file/b2cd9d31d3841941606a4.jpg)&#13;
+更新日志：&#13;
+v1.7.22230 正式版&#13;
++ 新增杜比视界 HDR 播放功能&#13;
+- 修正播放某些 MP4 文件时画面不出现的问题&#13;
+- 改进内置 D3D9 渲染器的稳定性&#13;
+- 修正压缩文件中的文件无法正常播放的问题&#13;
+- 修正使用 DXVA 播放某些 MPEG 2 时导航后花屏的问题&#13;
+&#13;
+此版特点&#13;
+1、去效验，去右下角空白广告弹窗！卸载可选备份设置&#13;
+2、禁止后台联网请求：境外广告、发送日志、检查升级&#13;
+3、集成额外的音频解码器及视频解码器组件：Open Codec for PotPlayer&#13;
+├—DTS, MLP, TrueHD编码器Module\FFmpeg4\FFmpegMininum64.dll&#13;
+├—S/W HEVC(H265)编码器PotPlayer\Module\FFmpeg4\FFmpeg64.dll&#13;
+├—Intel H.264 MVC 3D编解码器库 PotPlayer\Module\libmfxsw(64).dll&#13;
+4、预设配置：常规设置 + 默认启用自定义解码器H.265/HEVC及硬件加速&#13;
+├—滤镜—视频解码器—内置解码器/DXVA设置—&gt;使用硬件加速 (DXVA)&#13;
+├—滤镜—视频解码器—内置解码器/DXVA设置—解码器—&gt;H.265/HEVC&#13;
+5、删除TV直播列表, 登陆程序,日志管理, 消息通知, 多语言等不必要的文件&#13;
+&#13;
+自v1.7.19955版本开始，之后内置解码器S/W HEVC(H.265)需额外下载：&#13;
+&#13;
+64位：[(http://t1.daumcdn.net/potplayer/PotPlayer/Codec/OpenCodecSetup64.exe](url)&#13;
+&#13;
+32位：[http://t1.daumcdn.net/potplayer/PotPlayer/Codec/OpenCodecSetup.exe](url)&#13;
+&#13;
+  ---&#13;
+软件下载地址：&#13;
+https://wwd.lanzoul.com/b01i3nhagf 密码:3ieo。</description><guid isPermaLink="true">https://xs.xsvip999.eu.org/xsblog//post/PotPlayer-qu-guang-gao-lv-se-ban---zhi-chi-du-bi-shi-jie.html</guid><pubDate>Sat, 18 May 2024 01:19:23 +0000</pubDate></item><item><title>我的电视-MyTV</title><link>https://xs.xsvip999.eu.org/xsblog//post/wo-de-dian-shi--MyTV.html</link><description>一款免费的无广无购物的电视直播，主要看央视和卫视，极其流畅。</description><guid isPermaLink="true">https://xs.xsvip999.eu.org/xsblog//post/wo-de-dian-shi--MyTV.html</guid><pubDate>Fri, 17 May 2024 15:03:07 +0000</pubDate></item><item><title>开篇</title><link>https://xs.xsvip999.eu.org/xsblog//post/kai-pian.html</link><description>就是第一次开篇文章。</description><guid isPermaLink="true">https://xs.xsvip999.eu.org/xsblog//post/kai-pian.html</guid><pubDate>Fri, 17 May 2024 14:30:54 +0000</pubDate></item></channel></rss>
