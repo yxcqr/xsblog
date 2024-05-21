@@ -2,7 +2,7 @@
 Wetab 标签页插件简介:
 整合了 AI 聊天机器人组件，在国内直接使用。
 ![](https://t.3344550.xyz/file/6375e03e4272d77f9ac22.jpg)
-Wetab 是一款可以亲手打造属于自己的高颜值主页的小组件[新标签页](https://www.extfans.com/productivity/nnnkddnnlpamobajfibfdgfnbcnkgngh/)插件，跟 [Infinity](https://www.extfans.com/productivity/dbfmnekepjoapopniengjbcpnbljalfg/) New Tab 新标签页一样美观大气，跟 iTab iTab 新标签页一样主打小组件功能。iOS 苹果小组件卡片设计，内置倒计时、纪念日、天气、热搜、计算器、等超酷小组件，让信息一目了然，标签页整洁美观。
+Wetab 是一款可以亲手打造属于自己的高颜值主页的小组件新标签页插件，跟 Infinity New Tab 新标签页一样美观大气，跟 iTab iTab 新标签页一样主打小组件功能。iOS 苹果小组件卡片设计，内置倒计时、纪念日、天气、热搜、计算器、等超酷小组件，让信息一目了然，标签页整洁美观。
 Wetab 好看、好用，还好玩，让你的标签页充满无限可能：
 ![](https://t.3344550.xyz/file/b69193d3e50268b485857.jpg)
 1.自定义新标签页中的小组件和图标，支持随意拖拽布置，任意搭配。
@@ -34,18 +34,11 @@ Wetab 好看、好用，还好玩，让你的标签页充满无限可能：
 27.电影日历小组件
 28.豆瓣阅读榜单小组件
 29.AI 聊天组件，自由访问 AI 聊天机器人
-
 30.自定义 AI 聊天源
-
 31.动态壁纸、渐变背景
 在线版地址：https://web.wetab.link/
 问题反馈：https://support.qq.com/product/422565
 官方网站：https://www.wetab.link/zh/
-
-
-WeTab 新标签页下载方法 / 流程:
-点击下载按钮，关注“[扩展迷](https://www.extfans.com/) Extfans”公众号并获取验证码，在网页弹窗中输入验证码，即可下载最新安装文件。
-
 
 WeTab 新标签页安装教程 / 方法：
 (1)将扩展迷上下载的安装包文件（.zip）解压为文件夹，其中类型为“crx”的文件就是接下来需要用到的安装文件
