@@ -1,7 +1,7 @@
 ![](https://t.3344550.xyz/file/cdd7d851280725f96c9a8.jpg)
 【新建记事本】—【复制代码】—【粘贴代码】—【重名名记事本，后缀名为bat】
 ![](https://t.3344550.xyz/file/322a5e83ae6c2510e475c.jpg)
-![](http://xsvip.ezyro.com/wp-content/uploads/2024/02/a1105977-2ce3-94ed-1875-0f49ee3d9672.gif)
+![](https://g.3344550.xyz/https://raw.githubusercontent.com/yxcqr/xsblog/main/pic/%E4%B8%80%E9%94%AE%E6%B8%85%E7%90%86Windows%E5%9E%83%E5%9C%BE.gif)
 在文件中输入:
 
     @echo off
