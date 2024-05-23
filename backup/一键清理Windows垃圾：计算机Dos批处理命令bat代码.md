@@ -2,6 +2,8 @@
 【新建记事本】—【复制代码】—【粘贴代码】—【重名名记事本，后缀名为bat】
 ![](https://t.3344550.xyz/file/322a5e83ae6c2510e475c.jpg)
 ![](https://g.3344550.xyz/https://raw.githubusercontent.com/yxcqr/xsblog/main/pic/%E4%B8%80%E9%94%AE%E6%B8%85%E7%90%86Windows%E5%9E%83%E5%9C%BE.gif)
+![一键清理Windows垃圾](https://github.com/yxcqr/xsblog/assets/28244699/26f1f272-41ba-4bfb-804e-33d9d41ad12e)
+
 在文件中输入:
 
     @echo off
