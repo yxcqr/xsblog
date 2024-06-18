@@ -15,3 +15,4 @@ musicfree电脑版目前首次上线，bug估计应该免不了，不过分享�
 https://wwef.lanzoul.com/b087lmqej 密码:51g4
 插件地址：
 https://raw.githubusercontent.com/maotoumao/MusicFreePlugins/master/plugins.json
+https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
