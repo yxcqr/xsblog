@@ -10,7 +10,7 @@
 https://wwef.lanzoul.com/b0866jrxa 密码:cnvip666
   - - -
 潇洒自己维护的源地址：
-https://download.kstore.space/download/2863/01.txt(已被限速)
+https://download.kstore.space/download/2863/01.txt   (已被限速)
   - - -
 单仓地址：
 https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/01.txt
