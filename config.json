@@ -23,5 +23,6 @@
     "rssSplit":"sentence",
     "bottomText":"💗转载请注明出处💗",
     "allHead":"<script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/assets/GmeekTOC.js'></script>",
     "GMEEK_VERSION":"last"
 }
